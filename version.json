@@ -2,9 +2,9 @@
   "forceUpdate": true,
   "min_supported_version": 43,
   "versionCode": 999999,
-  "versionName": "1.0.0",
+  "versionName": "9.9.9.9",
   "downloadUrl": "https://play.google.com/store/apps/details?id=com.xylen.simplatform",
   "play_url": "https://play.google.com/store/apps/details?id=com.xylen.simplatform",
-  "changelog": "Please update Xylen Sim Platform from Google Play Store to continue.",
-  "update_message": "Please update Xylen Sim Platform from Google Play Store to continue."
+  "changelog": "Update Required: Please update Xylen Sim Platform from Google Play Store to continue.",
+  "update_message": "Update Required: Please update Xylen Sim Platform from Google Play Store to continue."
 }
